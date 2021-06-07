@@ -18,7 +18,21 @@ Looks difficult? Don't worry, this step by step guide will show you how to creat
 
 ## Submissions:
 
-Student Submissions will be posted here at the end of the challenge:
+Student Submissions will be posted here at the end of the challenge. Here are the top 3 winners!
+
+igupta097#2551  
+Github Repo  
+https://github.com/Ishaan97/Clap-To-Toggle-Dark-Light-Mode  
+  
+----------  
+lucifer.mawningstar#1085  
+Github Repo  
+https://github.com/Aadi2001/Clap2Dark_Mode  
+  
+----------  
+Alberto#1741  
+Github Repo  
+https://github.com/Alberto03/clapping-hands-toggle  
 
 
 
